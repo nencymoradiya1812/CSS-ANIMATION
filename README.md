@@ -1,4 +1,4 @@
-Certainly! Here's a sample content for your CSS animation LinkedIn post:
+Certainly! Here's a sample content for your CSS animation :
 
 🚀 Elevate with CSS Animations! 🎨✨
 🚀 Let's spice things up with some CSS animations! 🌟 Today, I want to share a cool animation using the transform property.
